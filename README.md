@@ -1,4 +1,9 @@
 ## Hi there 👋
+Soy un entusiasta de la tecnología al que le apasiona explorar nuevas herramientas y lenguajes de programación. Me encanta aprender de la comunidad y compartir conocimientos con otras personas interesadas en el desarrollo de software.
+
+🌱 Me encuentro aprendiendo constantemente sobre programación, IA y nuevas tendencias tecnológicas.
+💬 Puedes preguntarme sobre temas relacionados con desarrollo web, GitHub y buenas prácticas de programación.
+✨ Disfruto contribuyendo y trabajando en proyectos colaborativos, especialmente aquellos que apoyan el crecimiento de la comunidad.
 
 <!--
 **germanvelezh/germanvelezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
